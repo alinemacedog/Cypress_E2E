@@ -1,0 +1,14 @@
+{
+  "name": "cypres-e2e",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Aline Macedo",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^12.15.0"
+  }
+}
